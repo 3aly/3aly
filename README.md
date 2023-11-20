@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working in Ejada Systems Cairo, Egypt as a Junior Software Engineer
+- 🔭 I’m currently working at Ejada Systems Cairo, Egypt as a Junior Software Engineer
 
 - 🌱  I’m currently learning React.js, React Native
 
