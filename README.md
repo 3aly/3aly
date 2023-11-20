@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋🏽, I'm Ali Hefny</h1>
-<h3 align="center">ASU Computer Engineering Grad</h3>
+<h3 align="center">Junior Front-end developer</h3>
 
 
 #### 👨🏻‍💻  About Me
 
 - 🔭 I’m currently working at Ejada Systems Cairo, Egypt as a Junior Software Engineer
 
-- 🌱  I’m currently learning React.js, React Native
+- 🌱 I’m currently working with React.js, React Native
 
-- 👯 I’m interested in studying full-stack web development and recently finished Udacity's Professional Front-End Web Development nanodegree.
-
-- 💻 I mainly code in **JavaScript** and C++ but open to learning more!
+- 💻 I mainly code in **JavaScript** and **TypeScript** but open to learning more!
 
 - 📫 Reach me at **ali.hefny1998@gmail.com**
 
